@@ -1,1 +1,1 @@
-![:name]([https://moe-counter.glitch.me/get/@:daoq?theme=rule34]))
+![:daoq](https://moe-counter.glitch.me/get/@:daoq?theme=rule34)
